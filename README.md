@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.pinimg.com/736x/ad/b2/b3/adb2b3ae6abf84a8f55db7b44b2e20af.jpg]" width="100%" alt="Sky Children of the Light Banner" />
+<img src="(https://i.pinimg.com/736x/ad/b2/b3/adb2b3ae6abf84a8f55db7b44b2e20af.jpg)" width="100%" alt="Sky Children of the Light Banner" />
 
 # ✦ Kiesha Kaye Alfanta ✦
 
