@@ -67,7 +67,7 @@ Greetings, traveler! I'm **Kiesha Kaye Alfanta**.
 
 ### 🕊️ Thank you for visiting my sanctuary in the sky!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8D4A2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B9A4D8&height=100&section=footer" width="100%"/>
 
 *Banner Artwork:* [Sky: Children of the Light — Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1316239)
 
